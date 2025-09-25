@@ -1,12 +1,6 @@
-# 👋 Hi, I'm zerox80
-
-**IT Professional • Software Engineer • IT Administrator**
-
----
-
-## 💻 Skills
-- **Languages:** Rust, Java, Python, C++
-- **Expertise:** Full-stack development, system administration, performance optimization, web technologies
+hi, nothing to say :)
+Love Computers, IT, Cybersecurity.
+Digital freedom is the key.
 
 ---
 
